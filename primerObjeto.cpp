@@ -22,5 +22,6 @@ int main(){
     cout<<p1.edad<<endl;
     p1.saludar();
     p2.nombre = "David";
+    p2.edad = 29;
     p2.saludar();
 }
